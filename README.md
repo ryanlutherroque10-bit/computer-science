@@ -3,6 +3,7 @@
 Protótipo didático de orientação sobre a Tarifa Social de Energia Elétrica. Não é canal oficial e não confirma a concessão de benefício.
 
 ## Arquivos
+- `GS_Citizen_Assist_AI_1CC_FEV.pdf`: relatório técnico do projeto.
 - `elegibilidade.py`: implementação interativa com validação das entradas 0/1.
 - `testa_equivalencia.py`: valida as 16 combinações da tabela-verdade.
 - `tabela_verdade.csv`: tabela completa.
