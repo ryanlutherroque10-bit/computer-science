@@ -1,0 +1,18 @@
+A B C D | S1 S2 S3 | valida��o
+0 0 0 0 | 0 1 0 | equivalente
+0 0 0 1 | 0 0 1 | equivalente
+0 0 1 0 | 0 1 0 | equivalente
+0 0 1 1 | 1 0 0 | equivalente
+0 1 0 0 | 0 1 0 | equivalente
+0 1 0 1 | 0 0 1 | equivalente
+0 1 1 0 | 0 1 0 | equivalente
+0 1 1 1 | 1 0 0 | equivalente
+1 0 0 0 | 0 1 0 | equivalente
+1 0 0 1 | 0 0 1 | equivalente
+1 0 1 0 | 0 1 0 | equivalente
+1 0 1 1 | 1 0 0 | equivalente
+1 1 0 0 | 0 1 0 | equivalente
+1 1 0 1 | 1 0 0 | equivalente
+1 1 1 0 | 0 1 0 | equivalente
+1 1 1 1 | 1 0 0 | equivalente
+OK: 16/16 combina��es equivalentes; sa�das exclusivas e completas.
